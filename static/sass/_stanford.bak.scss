@@ -57,7 +57,7 @@ $serif: $theme-serif-font, $serif;
 //  Theme Element Assignments
 //-----------------
 
-$body-bg: #66CDAA;
+$body-bg: $gray-1;
 $container-bg: $gray-1;
 $login-register-bg: $gray-1;
 $content-wrapper-bg: $gray-1;
@@ -81,7 +81,7 @@ $base-font-color: $black;
 $lighter-base-font-color: $black-80;
 $very-light-text: $gray-1;
 
-$link-color: #F0F8FF;
+$link-color: $dark-red;
 $link-color-d1: $dark-red;
 $link-hover: $cardinal-light;
 $site-status-color: $cardinal-bg;
@@ -185,7 +185,7 @@ $footer_margin: ($baseline/4) 0;
 //-----------------
 //  CSS BG Images
 //-----------------
-$homepage-bg-image: '../themes/stanford/images/dish.jpg';
+$homepage-bg-image: '../themes/stanford/images/stanford-pano.jpg';
 
 $login-banner-image: none;
 $register-banner-image: none;
